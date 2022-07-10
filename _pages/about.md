@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a ..... This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository.
+I am a Ph.D. candidate in Robotics at the University of Michigan, coadvised by [Prof. Ram Vasudevan](http://www.roahmlab.com/ram-personal) and [Prof. Talia Moore](https://www.moorebiomechanics.com/). I am a member of [ROAHM Lab](http://www.roahmlab.com/) and [EMBiR Lab](https://www.embirlab.com/).
