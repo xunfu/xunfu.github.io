@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Robotics at the University of Michigan, coadvised by [Prof. Ram Vasudevan](http://www.roahmlab.com/ram-personal) and [Prof. Talia Moore](https://www.moorebiomechanics.com/). I am a member of [ROAHM Lab](http://www.roahmlab.com/) and [EMBiR Lab](https://www.embirlab.com/).
+I am a Ph.D. Candidate in Robotics at the University of Michigan, co-advised by Prof. Ram Vasudevan and Prof. Talia Moore. I am a member of Robotics and Optimization for Analysis of Human Motion [(ROAHM)](http://www.roahmlab.com/) Lab and Evolution and Motion of Biology and Robotics [(EMBiR)](https://www.embirlab.com/) Lab. My research interests lie in modeling and control of complex dynamical systems via modern optimization techniques, with applications to soft robotics and high-performance bipedal locomotion.
+
+I received a B.E. in Mechatronics from Northwestern Polytechnical University, Xi'an China, in 2018 and an M.S. in Mechanical Engineering from the University of Michigan in 2020.
