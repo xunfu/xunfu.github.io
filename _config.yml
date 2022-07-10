@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HOME"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xun Fu"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Robotics Department at University of Michigan"
-  location         : "Ann Arbor, MI"
+  bio              : "PhD Student, Department of Robotics, University of Michigan"
+  location         : "Ann Arbor, Michigan"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
