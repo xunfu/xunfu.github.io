@@ -1,7 +1,12 @@
 ---
-title: ""
-collection: 
-type: ""
+title:
+collection:
+permalink:
+type:
+venue:
+data:
+semester:
+location:
 pic:
 ---
 
