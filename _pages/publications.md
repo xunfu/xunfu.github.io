@@ -15,8 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-I am a Ph.D. Candidate in Robotics at the [University of Michigan](https://umich.edu/), co-advised by Prof. Ram Vasudevan and Prof. Talia Moore. I am a member of Robotics and Optimization for Analysis of Human Motion [(ROAHM)](http://www.roahmlab.com/) Lab and Evolution and Motion of Biology and Robotics [(EMBiR)](https://www.embirlab.com/) Lab. 
+D. Bruder, X. Fu, and R. Vasudevan, “Advantages of Bilinear Koopman Realizations for the Modeling and Control of Systems with Unknown Dynamics,” IEEE Robotics and Automation Letters, 2021.
 
-My research interests lie in modeling and control of complex dynamical systems via modern optimization techniques, with applications to soft robotics and high-performance bipedal locomotion.
+D. Bruder, X. Fu, R. B. Gillespie, C. D. Remy, and R. Vasudevan, “Koopman-Based Control of a Soft Continuum Manipulator under Variable Loading Conditions,” IEEE Robotics and Automation Letters, 2021.
 
-I received a B.E. in Mechatronics Engineering from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) in 2018, and an M.S. in Mechanical Engineering from the [University of Michigan](https://umich.edu/) in 2020.
+D. Bruder, X. Fu, R. B. Gillespie, C. D. Remy, and R. Vasudevan, “Data-Driven Control of Soft Robots Using Koopman Operator Theory,” IEEE Transactions on Robotics, 2021.
+
+X. Fu and X. Mo, “Review: The Application of Wearable Sensors on the Diagnosis and Monitoring of Parkinson’s Disease,” DEStech Transactions on Engineering and Technology Research, 2018.
