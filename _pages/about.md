@@ -12,4 +12,4 @@ I am a Ph.D. Candidate in Robotics at the [University of Michigan](https://umich
 
 My research interests lie in modeling and control of complex dynamical systems via modern optimization techniques, with applications to soft robotics and high-performance bipedal locomotion.
 
-I received a B.E. in Mechatronics Engineering from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) in 2018, and an M.S. in Mechanical Engineering from the [University of Michigan](https://umich.edu/) in 2020.
+I received a B.E. in Mechatronics Engineering from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/) in 2018, and an M.S. in Mechanical Engineering from the [University of Michigan](https://umich.edu/) in 2019.
