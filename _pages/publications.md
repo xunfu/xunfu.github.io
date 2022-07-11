@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--- -->
 
-<!-- ---
+---
 permalink: /
 title: "Publications"
 excerpt: "Publications"
@@ -13,7 +13,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -26,6 +26,7 @@ redirect_from:
 {% endfor %} -->
 
 D. Bruder, X. Fu, and R. Vasudevan, “Advantages of Bilinear Koopman Realizations for the Modeling and Control of Systems with Unknown Dynamics”, _IEEE Robotics and Automation Letters_, 2021.
+[[pdf]](https://ieeexplore.ieee.org/document/9477047)[[video]](https://www.youtube.com/watch?v=g2yRUoPK40c)
 
 D. Bruder, X. Fu, R. B. Gillespie, C. D. Remy, and R. Vasudevan, "Koopman-Based Control of a Soft Continuum Manipulator under Variable Loading Conditions”, _IEEE Robotics and Automation Letters_, 2021.
 
