@@ -23,3 +23,5 @@ author_profile: true
 * D. Bruder, X. Fu, R. B. Gillespie, C. D. Remy, and R. Vasudevan, “Data-Driven Control of Soft Robots Using Koopman Operator Theory”, _IEEE Transactions on Robotics_, 2021.
 
 * X. Fu and X. Mo, “Review: The Application of Wearable Sensors on the Diagnosis and Monitoring of Parkinson’s Disease”, _DEStech Transactions on Engineering and Technology Research_, 2018.
+
+<div style="max-width:200px; word-wrap:break-word;">Textttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt</div>
