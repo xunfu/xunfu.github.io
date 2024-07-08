@@ -15,9 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+* X. Fu, B. Zhang, C. Weber, K. Cooper, R. Vasudevan, and T. Moore, **"Jointed tails enhance control of three-dimensional body rotation"**, _arXiv_, 2024. 
+<br>[[pdf]](https://arxiv.org/abs/2406.09700)
 
-* X. Fu, J. Withers, J. Miyamae, and T. Moore, **"ArborSim: Articulated, branching, opensim routing for consturcting models of multi-jointed appendages with complex muscle-tendon architecture"**, _bioRxiv_, 2024. 
-<br>[[pdf]](https://www.biorxiv.org/content/10.1101/2024.01.13.575515v1)
+* X. Fu, J. Withers, J. Miyamae, and T. Moore, **"ArborSim: Articulated, branching, opensim routing for consturcting models of multi-jointed appendages with complex muscle-tendon architecture"**, _PLOS Computational Biology_, 2024. 
+<br>[[pdf]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012243)
 
 * D. Bruder, X. Fu, R. B. Gillespie, C. D. Remy, and R. Vasudevan, **"Koopman-Based Control of a Soft Continuum Manipulator under Variable Loading Conditions”**, _IEEE Robotics and Automation Letters_, 2021.
 <br>[[pdf]](https://ieeexplore.ieee.org/document/9477047)[[video]](https://www.youtube.com/watch?v=g2yRUoPK40c)
